@@ -1,1 +1,1 @@
-# Setup-VSCode-for-C-
+# Put all .json files in .vscode folder
